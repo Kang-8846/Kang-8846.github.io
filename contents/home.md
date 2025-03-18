@@ -12,5 +12,5 @@ M.E., Computer Science and Technology, Beijing Institute of Technology, 2025—2
 B.E., Data Science and Big Data Technology, Fuzhou University, 2020—2024.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Deep Learning, Artificial Intelligence, Computer Vision.
 
